@@ -1,0 +1,1 @@
+# Nextjs Auth Middleware
