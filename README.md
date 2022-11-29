@@ -1,8 +1,8 @@
 # Nextjs Auth Middleware
 
 <a href="https://www.npmjs.com/package/nextjs-auth-middleware"><img src="https://img.shields.io/npm/v/nextjs-auth-middleware.svg?style=flat-square" alt="Current Release" /></a>
-<a href="https://www.npmjs.com/package/nextjs-auth-middleware"><img src="https://badgen.net/npm/dt/nextjs-auth-middleware?style=flat-square" alt="Downloads" /></a>
-<a href="https://github.com/abrahamcalsin/github-fork-banner/blob/main/LICENSE"><img alt="npm" src="https://img.shields.io/npm/l/nextjs-auth-middleware?style=flat-square" alt="License"></a>
+<a href="https://www.npmjs.com/package/nextjs-auth-middleware"><img src="https://img.shields.io/npm/dm/nextj-auth-middleware?style=flat-square" alt="Downloads" /></a>
+<a href="https://github.com/abrahamcalsin/nextjs-auth-middleware/blob/main/LICENSE"><img alt="npm" src="https://img.shields.io/npm/l/nextjs-auth-middleware?style=flat-square" alt="License"></a>
 
 `Nextjs-Auth-Middleware` is a node.js package that provides middleware that can be used to add API Key authentications to secure an API route in Next.js.
 
