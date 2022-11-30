@@ -7,9 +7,10 @@ interface authMiddlewareOptions {
 async function authMiddleware(
   req: NextApiRequest,
   res: NextApiResponse,
-  options: authMiddlewareOptions
+  options?: authMiddlewareOptions
 ) {
-  const { processEnv = process.env.API_ROUTE_PUBLIC_KEY } = options;
+  const { processEnv = process.env.API_ROUTE_PUBLIC_KEY } = (options ||
+    {}) as authMiddlewareOptions;
 
   return new Promise<void>((resolve, reject) => {
     const key = 'x-api-public-key';
