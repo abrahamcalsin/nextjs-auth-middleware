@@ -1,6 +1,6 @@
 {
   "name": "nextjs-auth-middleware",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "description": "Nextjs-Auth-Middleware is a node.js package that provides middleware that can be used to add API Key authentications to secure an API route in Next.js.",
   "keywords": [
